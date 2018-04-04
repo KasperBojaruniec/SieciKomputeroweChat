@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ProjektSK2"},{"l":"ProjektSK2.protocols"}]

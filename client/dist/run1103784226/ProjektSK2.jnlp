@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ProjektSK2.jnlp">
+    <information>
+        <title>ProjektSK2</title>
+        <vendor>Mikolaj Musidlowski</vendor>
+        <description>null</description>
+        <offline-allowed/>
+    </information>
+    <update check="always"/>
+    <resources>
+        <j2se version="9+" href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="ProjektSK2.jar" size="36718" download="eager"/>
+        <jar href="lib\Org.json.jar" size="113895" download="eager"/>
+        <jar href="lib\jackson-core-asl-1.9.13.jar" size="232248" download="eager"/>
+        <jar href="lib\jackson-mapper-asl-1.9.13.jar" size="780664" download="eager"/>
+    </resources>
+    <jfx:javafx-desc width="800" height="600" main-class="ProjektSK2.ProjektSK2" name="ProjektSK2"/>
+</jnlp>
+
